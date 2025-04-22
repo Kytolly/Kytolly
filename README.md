@@ -2,7 +2,7 @@
 
 ### About Me
 
-- <p align="left">🔭 <bold>Embodied AI</bold> studying.</p>
+- <p align="left">🔭 <b>Embodied AI</b> studying.</p>
 - <p align="left">🌟 <bold>Full-stack</bold> developer in pursuit.</p>
 - <p align="left">🤝 <bold>Internship</bold> actively seeking.</p>
 - <p align="left">👍 <bold>Knowledge</bold> sharing and <bold>Interacting</bold> is welcome.</p>
