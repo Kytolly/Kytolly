@@ -2,11 +2,11 @@
 
 ### About Me
 
-<p align="left">🔭Embodied AI studying.</p>
-<p align="left">🌟Full-stack developer in pursuit.</p>
-<p align="left">🤝Internship actively seeking.</p>
-<p align="left">👍Knowledge sharing and Interacting is welcome.</p>
-<p align="left">❤️Animation and Galgame lover.</p>
+- <p align="left">🔭**Embodied AI** studying.</p>
+- <p align="left">🌟**Full-stack** developer in pursuit.</p>
+- <p align="left">🤝**Internship** actively seeking.</p>
+- <p align="left">👍**Knowledge** sharing and **Interacting** is welcome.</p>
+- <p align="left">❤️**Animation** and **Galgame** lover.</p>
 
 ### Profile Views
 
@@ -16,10 +16,12 @@
   <img src="https://profile-counter.glitch.me/Kytolly/count.svg?"  />
 </div>
 
-### <h2 align="left">🚀Languages and Tools I used 🔥</h2>
+### <h2 align="left">🚀What I used 🔥</h2>
 
 <div align="left">
+  
 #### Languages
+  
   <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
   <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
@@ -143,3 +145,10 @@
 </div>
 
 ###
+
+<a href="https://github-readme-stats-one-bice.vercel.app/api?username=Menci&theme=calm&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-dark-mode-only" target="_blank">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Menci&theme=calm&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-dark-mode-only" alt="Menci's GitHub stats" height="185px">
+</a>
+<a href="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Menci&theme=calm&layout=compact&langs_count=8&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-dark-mode-only">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Menci&theme=calm&layout=compact&langs_count=8&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-dark-mode-only" alt="Top Langs" height="185px">
+</a>
