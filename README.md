@@ -27,14 +27,17 @@
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Kytolly" alt="GitHub Streak" /></a>
 
-<br clear="both">
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kytolly&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kytolly&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+
+<a href="https://github-readme-stats-one-bice.vercel.app/api?username=Menci&theme=calm&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-dark-mode-only" target="_blank">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Menci&theme=calm&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-dark-mode-only" alt="Menci's GitHub stats" height="185px">
+</a>
+<a href="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Menci&theme=calm&layout=compact&langs_count=8&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-dark-mode-only">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Menci&theme=calm&layout=compact&langs_count=8&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-dark-mode-only" alt="Top Langs" height="185px">
+</a>
 
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Kytolly&theme=github-compact&hide_border=true&area=true" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Kytolly&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
+
 ###
 
 <h2 align="left">🚀What I used 🔥</h2>
