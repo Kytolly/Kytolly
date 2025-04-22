@@ -3,7 +3,7 @@
 ###
 
 
-<h2 align="left">🎓 About Me</h2>
+<h2 align="left">About Me</h2>
 
 - <p align="left">🔭 <b>Embodied AI</b> studying.</p>
 - <p align="left">🌟 <b>Full-stack</b> developer in pursuit.</p>
@@ -21,15 +21,13 @@
 </div>
 
 ### 
-
 <h2 align="left">🌱 Status</h2> 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kytolly/Kytolly/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kytolly/Kytolly/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Kytolly/Kytolly/output/pacman-contribution-graph.svg">
-</picture>
- 
+</picture> 
 
 <br clear="both">
 <div align="center">
@@ -123,11 +121,6 @@
   <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" alt="google logo"  />
 
 </div>
-
-### 
-
-
-
 
 ###
 
