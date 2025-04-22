@@ -1,5 +1,7 @@
 <h2 align="left">Hi 👋! Kytolly here. A junior at UESTC.</h2>
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DCAAF7&width=435&lines=Welcome+to+My+Github+Page+!" alt="Typing SVG" /></a>
+
 ###
 
 
@@ -23,11 +25,7 @@
 ### 
 <h2 align="left">🌱 Status</h2> 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kytolly/Kytolly/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kytolly/Kytolly/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Kytolly/Kytolly/output/pacman-contribution-graph.svg">
-</picture> 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Kytolly" alt="GitHub Streak" /></a>
 
 <br clear="both">
 <div align="center">
@@ -35,6 +33,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kytolly&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Kytolly&theme=github-compact&hide_border=true&area=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Kytolly&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
 ###
 
 <h2 align="left">🚀What I used 🔥</h2>
