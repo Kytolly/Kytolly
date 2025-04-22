@@ -2,11 +2,11 @@
 
 ### About Me
 
-- <p align="left">🔭**Embodied AI** studying.</p>
-- <p align="left">🌟**Full-stack** developer in pursuit.</p>
-- <p align="left">🤝**Internship** actively seeking.</p>
-- <p align="left">👍**Knowledge** sharing and **Interacting** is welcome.</p>
-- <p align="left">❤️**Animation** and **Galgame** lover.</p>
+- <p align="left">🔭 <bold>Embodied AI</bold> studying.</p>
+- <p align="left">🌟 <bold>Full-stack</bold> developer in pursuit.</p>
+- <p align="left">🤝 <bold>Internship</bold> actively seeking.</p>
+- <p align="left">👍 <bold>Knowledge</bold> sharing and <bold>Interacting</bold> is welcome.</p>
+- <p align="left">❤️ <bold>Animation</bold> and <bold>Galgame</bold> lover.</p>
 
 ### Profile Views
 
@@ -101,19 +101,7 @@
 
 </div>
 
-### <h2 align="left">You May See Me</h2>
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gitlab/default.svg" width="52" height="40" alt="gitlab logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-</div>
-
-###
+### Status
 
 <br clear="both">
 
@@ -151,4 +139,16 @@
 </a>
 <a href="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Menci&theme=calm&layout=compact&langs_count=8&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-dark-mode-only">
   <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Menci&theme=calm&layout=compact&langs_count=8&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-dark-mode-only" alt="Top Langs" height="185px">
+
+### <h2 align="left">You May See Me</h2>
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gitlab/default.svg" width="52" height="40" alt="gitlab logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+</div>
 </a>
