@@ -34,8 +34,9 @@
 <a href="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Menci&theme=calm&layout=compact&langs_count=8&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-dark-mode-only">
   <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Menci&theme=calm&layout=compact&langs_count=8&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-dark-mode-only" alt="Top Langs" height="185px">
 </a>
-
+ 
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Kytolly&theme=github-compact&hide_border=true&area=true" />
+
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Kytolly&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
 
 ###
