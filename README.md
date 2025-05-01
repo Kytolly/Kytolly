@@ -46,6 +46,7 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Kytolly/Kytolly/output/pacman-contribution-graph.svg">
 </picture> 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kytolly)](https://github.com/anuraghazra/github-readme-stats)
 
 ###
 
