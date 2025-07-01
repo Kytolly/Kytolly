@@ -1,11 +1,10 @@
-<h2 align="left">Hi 👋! Kytolly here. A junior at UESTC.</h2>
 <h2 align="left">About Me</h2>
-
-- <p align="left">🔭 <b>Embodied AI</b> studying.</p>
-- <p align="left">🌟 <b>Full-stack</b> developer in pursuit.</p>
-- <p align="left">🤝 <b>Internship</b> actively seeking.</p>
-- <p align="left">👍 <b>Knowledge</b> sharing. </p>
-- <p align="left">❤️ <b>Animation</b> and <b>Galgame</b> lover.</p>
+<p align="left">Hi 👋! Kytolly here. A junior at UESTC.</p>
+  - <p align="left">🔭 <b>Embodied AI</b> studying.</p>
+  - <p align="left">🌟 <b>Full-stack</b> developer in pursuit.</p>
+  - <p align="left">🤝 <b>Internship</b> actively seeking.</p>
+  - <p align="left">👍 <b>Knowledge</b> sharing. </p>
+  - <p align="left">❤️ <b>Animation</b> and <b>Galgame</b> lover.</p>
 
 <h2 align="left">🌱 Status</h2>
 
