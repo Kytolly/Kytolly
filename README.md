@@ -1,12 +1,12 @@
 <h2 align="left">About Me</h2>
 <p align="left">Hi 👋! Kytolly here. A junior at UESTC.</p>
-  <ul align="left">
-    <li style="list-style: none;">🔭 <b>Embodied AI</b> studying.</li>
-    <li style="list-style: none;">🌟 <b>Full-stack</b> developer in pursuit.</li>
-    <li style="list-style: none;">🤝 <b>Internship</b> actively seeking.</li>
-    <li style="list-style: none;">👍 <b>Knowledge</b> sharing.</li>
-    <li style="list-style: none;">❤️ <b>Animation</b> and <b>Galgame</b> lover.</li>
-  </ul>
+<div style="text-align: left;">
+  🔭 <b>Embodied AI</b> studying.<br>
+  🌟 <b>Full-stack</b> developer in pursuit.<br>
+  🤝 <b>Internship</b> actively seeking.<br>
+  👍 <b>Knowledge</b> sharing.<br>
+  ❤️ <b>Animation</b> and <b>Galgame</b> lover.
+</div>
 
 <h2 align="left">🌱 Status</h2>
 
