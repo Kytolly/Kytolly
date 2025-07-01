@@ -10,11 +10,11 @@
 
 <div style="display: flex; flex-wrap: wrap; justify-content: flex-start; width: fit-content; margin-left: 0; margin-right: auto;">
   <div style="margin-right: 10px; margin-bottom: 10px;">
-    <a href="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Kytolly&theme=default&layout=compact&langs_count=8&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER">
+    <a href="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Kytolly&theme=default&layout=compact&langs_count=8&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER&hide=html">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Kytolly&theme=calm&layout=compact&langs_count=8&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-dark-mode-only">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Kytolly&theme=default&layout=compact&langs_count=8&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-light-mode-only">
-        <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Kytolly&theme=default&layout=compact&langs_count=8&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-light-mode-only" alt="Top Langs" height="185px">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Kytolly&theme=calm&layout=compact&langs_count=8&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER&hide=html#gh-dark-mode-only">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Kytolly&theme=default&layout=compact&langs_count=8&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER&hide=html#gh-light-mode-only">
+        <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Kytolly&theme=default&layout=compact&langs_count=8&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER&hide=html#gh-light-mode-only" alt="Top Langs" height="185px">
       </picture>
     </a>
   </div>
