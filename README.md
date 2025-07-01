@@ -1,4 +1,3 @@
-
 <h2 align="left">About Me</h2>
 
 - <p align="left">🔭 <b>Embodied AI</b> studying.</p>
@@ -11,13 +10,13 @@
 
 <div style="display: flex; flex-wrap: wrap; justify-content: flex-start; width: fit-content; margin-left: 0; margin-right: auto;">
   <div>
-    <a href="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Kytolly&theme={% if page.github_theme == 'dark' %}calm{% else %}default{% endif %}&layout=compact&langs_count=8&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-{{ page.github_theme }}-mode-only">
-      <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Kytolly&theme={% if page.github_theme == 'dark' %}calm{% else %}default{% endif %}&layout=compact&langs_count=8&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-{{ page.github_theme }}-mode-only" alt="Top Langs" height="185px">
+    <a href="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Kytolly&theme=default&layout=compact&langs_count=8&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-light-mode-only">
+      <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Kytolly&theme=default&layout=compact&langs_count=8&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-light-mode-only" alt="Top Langs" height="185px">
     </a>
   </div>
   <div>
-    <a href="https://github-readme-stats-one-bice.vercel.app/api?username=Kytolly&theme={% if page.github_theme == 'dark' %}calm{% else %}default{% endif %}&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-{{ page.github_theme }}-mode-only" target="_blank">
-      <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Kytolly&theme={% if page.github_theme == 'dark' %}calm{% else %}default{% endif %}&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-{{ page.github_theme }}-mode-only" alt="Kytolly's GitHub stats" height="185px">
+    <a href="https://github-readme-stats-one-bice.vercel.app/api?username=Kytolly&theme=default&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-light-mode-only" target="_blank">
+      <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Kytolly&theme=default&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-light-mode-only" alt="Kytolly's GitHub stats" height="185px">
     </a>
   </div>
 </div>
