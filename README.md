@@ -1,3 +1,4 @@
+<h2 align="left">Hi 👋! Kytolly here. A junior at UESTC.</h2>
 <h2 align="left">About Me</h2>
 
 - <p align="left">🔭 <b>Embodied AI</b> studying.</p>
