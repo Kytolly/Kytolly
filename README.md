@@ -1,11 +1,9 @@
 <h2 align="left">About Me</h2>
-<p align="left">Hi 👋! Kytolly here. A junior at UESTC.</p>
+<p align="left">Hi 👋! Kytolly here. NUS MSc student in Computer Engineering.</p>
 <div style="text-align: left;">
   🔭 <b>Embodied AI</b> studying.<br>
-  🌟 <b>Full-stack</b> developer in pursuit.<br>
   🤝 <b>Internship</b> actively seeking.<br>
   👍 <b>Knowledge</b> sharing.<br>
-  ❤️ <b>Animation</b> and <b>Galgame</b> lover.
 </div>
 
 <h2 align="left">🌱 Status</h2>
